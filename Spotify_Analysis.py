@@ -110,7 +110,7 @@ def main():
         """)
         
         # Replace with your Power BI embed URL
-        powerbi_url = "https://app.powerbi.com/reportEmbed?reportId=your-report-id&groupId=your-group-id"
+        powerbi_url = ""
         st.components.v1.iframe(powerbi_url, width=1000, height=600, scrolling=True)
         
         # Advanced Analytics Section
