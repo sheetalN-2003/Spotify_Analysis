@@ -1,0 +1,27 @@
+# Core requirements
+streamlit
+pandas
+numpy
+plotly
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Data visualization
+matplotlib
+seaborn
+
+# Date handling
+python-dateutil
+pytz==2023.3.post1
+
+# HTTP requests
+requests
+
+# Power BI embedding (if needed)
+pybi  # Optional - for Power BI REST API integration
+
+# Additional utilities
+tqdm  # For progress bars
+ipython # For debugging if needed
